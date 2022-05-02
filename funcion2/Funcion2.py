@@ -1,4 +1,4 @@
-from ..funcion import funcion 
+from ..funcion import suma 
 
-print(funcion.sumar(4,4,5))
+print(funcion.suma(4,4,5))
 
