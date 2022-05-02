@@ -1,2 +1,2 @@
-from .suma import sumar
-from .suma import resta
+from .operaciones import sumar
+from .operaciones import resta
