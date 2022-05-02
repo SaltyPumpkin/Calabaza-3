@@ -1,3 +1,5 @@
+from ..funcion import funcion as fn
+
 def multiplica_por_5(numero):
     print(f'{numero} * 5 = {numero * 5}')
 print('Comienzo del programa')    
