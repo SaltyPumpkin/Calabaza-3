@@ -1,3 +1,3 @@
-from ..funcion import resta
+from ..funcion.operaciones import sumar
 
-print(resta(2,5,6))
+print(sumar(2,5,6))
